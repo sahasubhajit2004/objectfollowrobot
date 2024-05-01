@@ -15,6 +15,8 @@ Servo myservo;
 int pos =0;
 long time;
 
+int i=6;
+
 void setup(){
 
 Serial.begin(9600);
